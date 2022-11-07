@@ -1,0 +1,11 @@
+{
+  "reg": "Registration",
+  "name": "Username",
+  "post": "Postal code",
+  "phone": "Phone number",
+  "pass": "Password",
+  "acc": "Do you have an account?",
+  "voiti": "Login",
+  "login": "Login",
+  "accno": "Don't have an account?"
+}
